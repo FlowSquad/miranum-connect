@@ -15,7 +15,7 @@
         <revision>1.0.0</revision>
         <spring-boot.version>3.1.9</spring-boot.version>
         <lombok.version>1.18.32</lombok.version>
-        <camunda7.version>7.20.0</camunda7.version>
+        <camunda7.version>7.21.0</camunda7.version>
         <miranum-connect.version>0.7.2-SNAPSHOT</miranum-connect.version>
         <miranum-platform.version>0.3.6-SNAPSHOT</miranum-platform.version>
         <springdoc-openapi.version>2.6.0</springdoc-openapi.version>
