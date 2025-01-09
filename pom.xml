@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <spring-boot.version>3.1.9</spring-boot.version>
-        <spring.cloud.version>2022.0.4</spring.cloud.version>
+        <spring.cloud.version>2024.0.0</spring.cloud.version>
         <lombok.version>1.18.34</lombok.version>
         <lombok.mapstruct.binding.version>0.2.0</lombok.mapstruct.binding.version>
         <org.mapstruct.version>1.6.3</org.mapstruct.version>
